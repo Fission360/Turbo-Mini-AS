@@ -10,7 +10,14 @@ Secondly, In order to get a good signal from my control pin, I needed to put a l
 
 ![RC-Low-Pass-Filter](https://user-images.githubusercontent.com/93737816/166124358-5a75a4ce-446e-4044-aa16-12f0d58c5985.png)
 
-In this circuit diagram of a low-pass filter, the top wire is connecting GPIO26 on your Pi to the pin for the 
+In this circuit diagram of a low-pass filter, the top wire is connecting GPIO26 to the fan controller, and the bottom wire is connecting your MCU ground to the fan controller. The input (left side in diagram) should be connected to your Pi and MCU, while the output (right side in diagram) should be connected to your fan controller. It should look something like this:
+![IMG_4186 2](https://user-images.githubusercontent.com/93737816/166124532-96710c31-637f-4d27-a368-a54e0c64095f.JPG)
+
+Add the connectors according to the finished wiring loom:
+![IMG_4197](https://user-images.githubusercontent.com/93737816/166124548-bd6d72f8-fb3f-4af6-bbea-96309f3f34d6.JPG)
+
+If you don't use 
+![IMG_4198](https://user-images.githubusercontent.com/93737816/166124560-929e95d8-df47-4fa8-b108-b082f1d60aef.JPG)
 
 Grab the 10k resistor, the 1uF cap, some wire, some heatshrink, all your connectors, and soldering iron + solder.
 
