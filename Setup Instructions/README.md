@@ -2,7 +2,7 @@
 Firstly, you'll need to print out all your parts. Like the Mini-AfterSherpa, you'll need to press two threaded inserts into the top of the shroud, but you'll also need to press two inserts in to the posts of the fan mount.
 
 # Mounting the fan
-Take your three M2.5x12 screws and screw them from the back of the mount and into the posts on the fan. Then, mount the fan to the panel with two M3x6 screws. It should look something like this:
+Take your three M2.5x12 screws and screw them from the back of the mount and into the posts on the fan. Then, mount the fan to the panel with two M3x6 screws. Run the wires under the small slot in the bottom of the panel and zip tie them from the inside. Finally, route the fan's connector and wires through the motor panel with the boweden tube and everything. It should look something like this when you're done:
 
 ![IMG_4204](https://user-images.githubusercontent.com/93737816/166125303-e32165b5-f81a-4c79-b4bc-82e06df6600d.JPG)
 ![IMG_4202](https://user-images.githubusercontent.com/93737816/166125307-f4efa567-0cfe-4296-bb0e-34fc8cb27dda.JPG)
