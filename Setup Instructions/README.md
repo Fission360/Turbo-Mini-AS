@@ -1,4 +1,5 @@
-You'll need to print out all your parts, and 
+# Setup Instructions
+Firstly, you'll need to print out all your parts. Like the Mini-AfterSherpa, you'll need to press two threaded inserts into the top
 
 
 In your config, change "fan" to the below settings
