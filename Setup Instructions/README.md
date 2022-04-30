@@ -2,7 +2,7 @@
 Firstly, you'll need to print out all your parts. Like the Mini-AfterSherpa, you'll need to press two threaded inserts into the top of the shroud, but you'll also need to press two inserts in to the posts of the fan mount.
 
 Before you do anything else, I would highly recommend watching this video from Vez3D: https://www.youtube.com/watch?v=E3kBau82SwU
-The below image is pulled from Vez3D's video
+The below image is pulled from it.
 <img width="1334" alt="Screen Shot 2022-04-30 at 3 06 50 PM" src="https://user-images.githubusercontent.com/93737816/166124166-685a0327-5af3-42d9-935c-29a4c3455579.png">
 
 I'm following his example by controlling my printer via a pin on the Pi, and in order to do that, we need to set up your Pi as a second MCU (https://www.klipper3d.org/RPi_microcontroller.html). But I have two differences when compared to his wiring. Firstly, in addition to having the grey wire connect to GPIO26, I also connect the black wire on the fan controller to a ground pin on my MCU (in my case an SKR Mini E3 V2). 
