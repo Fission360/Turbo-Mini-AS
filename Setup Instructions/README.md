@@ -26,6 +26,7 @@ The below image is pulled from it.
 I'm following his example by controlling my printer via a pin on the Pi, and we need to set up the Pi as a second MCU for klipper to recognize the pin. (https://www.klipper3d.org/RPi_microcontroller.html). I do have two differences when compared to his wiring. Firstly, in addition to having the grey wire connect to GPIO26, I also connect the black wire on the fan controller to a ground pin on my MCU (in my case an SKR Mini E3 V2). 
 Secondly, In order to get a good signal from my control pin, I needed to put a low-pass filter between my fan's controller and my RPi and MCU. Shoutout to @ademuri on the Voron discord for the idea.
 ![RC-Low-Pass-Filter](https://user-images.githubusercontent.com/93737816/166124358-5a75a4ce-446e-4044-aa16-12f0d58c5985.png)
+
 In this circuit diagram of a low-pass filter, the top wire is connecting GPIO26 to the fan controller, and the bottom wire is connecting your MCU ground to the fan controller. The input (left side in diagram) should be connected to your Pi and MCU, while the output (right side in diagram) should be connected to your fan controller. Wiring up the 10k resistor and the 1uF cap like the diagram will look similar to this:
 
 ![IMG_4186 3](https://user-images.githubusercontent.com/93737816/166124846-36db728c-7955-4b6a-9fbf-baaf72c8e721.JPG)
