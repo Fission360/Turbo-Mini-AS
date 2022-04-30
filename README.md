@@ -7,7 +7,7 @@ If you're reading this, you are likely also be dissatisfied with the V0.1's part
 
 
 # What is this thing?
-It's a mod to give your V0.1 significantly better part cooling performance
+It's a mod that hopes to improve your V0.1's part cooling performance.
 
 
 # Why would I want this over the stock fans?
