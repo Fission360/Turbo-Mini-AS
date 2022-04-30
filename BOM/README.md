@@ -15,5 +15,7 @@
   - 4x M3x5x4 threaded inserts: https://www.aliexpress.com/item/4000761483243.html?spm=a2g0o.order_list.0.0.7d741802ue7PZJ
   - 2x M3x8 screws (for mounting the Sherpa Mini to the shroud)
   - 2x M3x6 screws
+  - 3x M2.5x12 screws
   - Double-sided tape
   - Electrical tape
+  - Zipties
