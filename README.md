@@ -13,4 +13,4 @@ It's a mod to give your V0.1 significantly better part cooling performance
 # Why would I want this over the stock fans?
 The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. So I offloaded the cooling element, which allowed me to use a more powerful blower fan that allows for *substantially* more cooling. 
 
-Additionally, if both the stock fans and my blower fan were to output, let's say 1.5 cfm, my blower fan would be substantially quieter than the stock fans, even though it's outputting an equivalent amount of air volume. Pretty nice, in my personal opinion.
+Additionally, if both the stock fans and the 7040 blower fan I'm using were to output, let's say 1.5 cfm, the 7040 fan would be substantially quieter than the stock fans, even though it's outputting an equivalent amount of air volume. Pretty nice, in my personal opinion.
