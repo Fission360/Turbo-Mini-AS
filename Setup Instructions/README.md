@@ -8,7 +8,11 @@ Take your three M2.5x12 screws and screw them from the back of the mount and int
 ![IMG_4202](https://user-images.githubusercontent.com/93737816/166125307-f4efa567-0cfe-4296-bb0e-34fc8cb27dda.JPG)
 
 # Hook Up the Tubing
-You'll need two lengths of CPAP for this step, one x long (we'll call it tube 1) and the other y long (this will be tube 2). Tube 1 will connect the hotend adapter to the hose adapter, and tube 2 will connect the hose adapter to the fan itself. The 
+You'll need two lengths of CPAP for this step, one x long (we'll call it tube 1) and the other y long (this will be tube 2). Tube 1 will connect the CPAP fan outlet adapter to the hose connector, and tube 2 will connect the hose connector to the fan itself. The hose connector will be mounted in front of the opening in the motor panel with double-sided tape (I wouldn't recommend using VHB tape here; it will be a pain in the butt to remove should you need to take off the motor panel). Final result will look like this:
+
+![IMG_4205](https://user-images.githubusercontent.com/93737816/166125676-aac620ad-7a52-4bb0-99d7-344b151d18c4.JPG)
+![IMG_4206](https://user-images.githubusercontent.com/93737816/166125679-ff2c3d28-6510-479c-8f33-5d99993d7767.JPG)
+
 
 # Wiring
 Before you do anything else, I would highly recommend watching this video from Vez3D: https://www.youtube.com/watch?v=E3kBau82SwU
