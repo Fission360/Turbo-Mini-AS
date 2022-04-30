@@ -40,6 +40,8 @@ Here it is fully wired up; the dupont connector goes to GPIO26, the 2-pin JST go
 ![IMG_4201](https://user-images.githubusercontent.com/93737816/166125167-22911d3c-5f96-422b-882c-b67940304e25.JPG)
 
 
-In your config, change "fan" to the below settings; I've found that for my particular setup, this allows me to go as low as 10-12% without the fan skipping.
+In your config, change "fan" to the below settings and restart your firmware; I've found that for my particular setup, these settigns allow me to go as low as 10-12% without the fan skipping.
 
 <img width="216" alt="Screen Shot 2022-04-28 at 11 58 19 PM" src="https://user-images.githubusercontent.com/93737816/165898117-19b03a1c-e4a8-4704-80c5-b39b65fa33c3.png">
+
+Now you should be ready to print!
