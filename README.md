@@ -14,3 +14,6 @@ It's a mod that hopes to improve your V0.1's part cooling performance.
 The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. So I offloaded the cooling element, which allowed me to use a more powerful blower fan that allows for more cooling. 
 
 Additionally, if both the stock fans and the 7040 blower fan were to output, let's say 1.5 cfm, the 7040 fan would be substantially quieter than the stock fans, even though it's outputting an equivalent amount of air volume. Pretty nice, in my personal opinion.
+
+# Why is it a Beta?
+I've been the only one to test my design so far, since I didn't want a sub-performing design to be my initial release. While I think it's performing well, I do want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe?
