@@ -16,4 +16,4 @@ The V0.1 is known to have a part-cooling bottleneck as parts are printed faster,
 Additionally, if both the stock fans and the 7040 blower fan were to output, let's say 1.5 cfm, the 7040 fan would be substantially quieter than the stock fans, even though it's outputting an equivalent amount of air volume. Pretty nice, in my personal opinion.
 
 # Why is it a Beta?
-I've been the only one to test my design so far, since I didn't want a sub-performing design to be my initial release. While I think it's performing well, I do want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe?
+I've been the only one to test my design so far, since I didn't want a sub-performing design to be my initial release. While I think it's performing well, I do want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe? I hope that others' feedback will help to even further improve the performance of it.
