@@ -9,16 +9,16 @@ If you're reading this, you are likely also be dissatisfied with the V0.1's part
 # What is this thing?
 It's a mod that hopes to improve your V0.1's part cooling performance.
 
-# What hotends/extruders does this support?
-Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. Currently, only Dragon/Dragonfly hotends are supported, but once KurioHonoo finalizes his Revo Voron mount, I'll work on one for that. I don't plan on doing an Orbiter V1.5/V2 version, nor do I plan on doing a Sherpa Micro Version, 
-
 # Why would I want this over the stock fans?
 The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. So I offloaded the cooling element, which allowed me to use a more powerful blower fan that allows for more cooling. 
 
-Additionally, if both the stock fans and the 7040 blower fan were to output, let's say 1.5 cfm, the 7040 fan would be substantially quieter than the stock fans, even though it's outputting an equivalent amount of air volume. Pretty nice, in my personal opinion.
+# What hotends/extruders does this support?
+Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter: https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl 
+Currently, only Dragon/Dragonfly hotends are supported, but once KurioHonoo finalizes his Revo Voron mount, I'll work on one for that. I don't plan on doing an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Why is it a Beta?
 I've been the only one to test my design so far, since I didn't want a sub-performing design to be my initial release. While I think it's performing well, I do want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe? I hope that others' feedback will help to even further improve the performance of it.
+
 # Can I get the CAD?
-Until I get more hours on my own shroud, and see how others are feeling about it, I will not be releasing the CAD publicly. A little annoying, I know, but I'm taking notes from the Stealthburner development and I still think this is best until more testing is implemented. But rest assured, I will be releasing f3d/step files for the design.
+Until I get more hours on my own shroud, and see how others are feeling about it, I will not be releasing the CAD publicly. A little annoying, I know, but I'm taking notes from the Stealthburner development and I still think this is best until more testing is implemented. But rest assured, I will be releasing f3d/step files for the design eventually.
 
