@@ -22,10 +22,7 @@ The below image is pulled from it.
 
 <img width="1334" alt="Screen Shot 2022-04-30 at 3 06 50 PM" src="https://user-images.githubusercontent.com/93737816/166124166-685a0327-5af3-42d9-935c-29a4c3455579.png">
 
-
-I'm following his example by controlling my printer via a pin on the Pi, and we need to set up the Pi as a second MCU for klipper to recognize the pin. (https://www.klipper3d.org/RPi_microcontroller.html). I do have two differences when compared to his wiring. 
-
-Firstly, in addition to having the grey wire connect to GPIO26, I also connect the black wire on the fan controller to a ground pin on my MCU (in my case an SKR Mini E3 V2). Secondly, In order to get a good signal from my control pin, I needed to put a low-pass filter between my fan's controller and my RPi and MCU. Shoutout to @ademuri on the Voron discord for the idea.
+I do have two differences when compared to his wiring. Firstly, in addition to having the grey wire connect to GPIO26, I also connect the black wire on the fan controller to a ground pin on my MCU (in my case an SKR Mini E3 V2). Secondly, In order to get a good signal from my control pin, I needed to put a low-pass filter between my fan's controller and my RPi and MCU. Shoutout to @ademuri on the Voron discord for the idea.
 ![RC-Low-Pass-Filter](https://user-images.githubusercontent.com/93737816/166124358-5a75a4ce-446e-4044-aa16-12f0d58c5985.png)
 
 In this circuit diagram of a low-pass filter, the top wire is connecting GPIO26 to the fan controller, and the bottom wire is connecting your MCU ground to the fan controller. The input (left side in diagram) should be connected to your Pi and MCU, while the output (right side in diagram) should be connected to your fan controller. Wiring up the 10k resistor and the 1uF cap like the diagram will look similar to this:
@@ -41,7 +38,10 @@ Here it is fully wired up; the dupont connector goes to GPIO26, the 2-pin JST go
 ![IMG_4201](https://user-images.githubusercontent.com/93737816/166125167-22911d3c-5f96-422b-882c-b67940304e25.JPG)
 
 
-In your config, you will need to change "fan" to the below settings and restart your firmware; I've found that for my particular setup, these settings allow me to go as low as 10-12% without the fan skipping.
+# Config/Klipper
+I'm following Vez3D's example by controlling my printer via a pin on the Pi, so we need to set up the Pi as a second MCU for klipper to recognize the pin. (https://www.klipper3d.org/RPi_microcontroller.html). 
+
+After you've followed those steps, in your config, you will need to change "fan" to the below settings and restart your firmware; I've found that for my particular setup, these settings allow me to go as low as 10-12% without the fan skipping.
 
 <img width="216" alt="Screen Shot 2022-04-28 at 11 58 19 PM" src="https://user-images.githubusercontent.com/93737816/165898117-19b03a1c-e4a8-4704-80c5-b39b65fa33c3.png">
 
