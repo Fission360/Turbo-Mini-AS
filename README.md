@@ -21,3 +21,4 @@ I've been the only one to test my design so far, since I didn't want a sub-perfo
 # Can I get the CAD?
 Until I get more hours on my own shroud, and see how others are feeling about it, I will not be releasing the CAD publicly. A little annoying, I know, but I'm taking notes from the Stealthburner development and I still think this is best until more testing is implemented. But rest assured, I will be releasing f3d/step files for the design eventually.
 
+If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
