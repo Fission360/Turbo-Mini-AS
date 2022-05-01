@@ -18,7 +18,7 @@
 Currently, only Dragon/Dragonfly hotends are supported, but once KurioHonoo finalizes his Revo Voron mount, I'll work on one for that. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Why is it a Beta?
-  I've been the only one to test my design so far. I say it's performing well, but it's also far from perfect, so I'm calling it a beta because I want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe? I hope that others' feedback will help to even further improve the performance of it.
+  I've been the only one to test my design so far. I think it's performing well, but it's also far from perfect; I just don't feel like it's ready enough for CAD release, so I'm calling it a beta because I want to get feedback first. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe? I hope that others will help to even further improve the performance of it.
 
 # Can I get the CAD?
   Until I get more hours on my own shroud, and see how others are feeling about it, I have decided that I will not be releasing the CAD publicly. A little annoying, I know, but I'm taking notes from the Stealthburner development and I still think this is best until more testing is implemented. But rest assured, I will be releasing f3d/step files for the design eventually, when the "production" release is finalized.
