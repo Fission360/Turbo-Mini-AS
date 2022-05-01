@@ -7,7 +7,7 @@
 
 
 # What is this thing?
-  It's a mod that hopes to improve your V0.1's part cooling performance by replacint the area for the 3010 blower fans with an internal ducting system, which directs air from a 7040 brushless blower fan. 
+  It's a mod that hopes to improve your V0.1's part cooling performance, replacing the area on the hotend reserved for the 3010 blower fans with an internal ducting system, which directs air from a 7040 brushless blower fan. 
 
 # Why would I want this over the stock fans?
   The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. So I offloaded the cooling element, which allowed me to use a more powerful blower fan that allows for more cooling. 
