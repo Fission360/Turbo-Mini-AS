@@ -14,7 +14,8 @@
 
 # What hotends/extruders does this support?
   Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl). I haven't tested that setup myself, so I can't guarantee that everything will fit as well as with the Sherpa Mini. 
-  Currently, only Dragon/Dragonfly hotends are supported, but once KurioHonoo finalizes his Revo Voron mount, I'll work on one for that. I don't plan on doing an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
+ 
+Currently, only Dragon/Dragonfly hotends are supported, but once KurioHonoo finalizes his Revo Voron mount, I'll work on one for that. I don't plan on doing an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Why is it a Beta?
   I've been the only one to test my design so far, since I didn't want a sub-performing design to be my initial release. While I think it's performing well, I do want to get feedback on my design. Like should the air be more or less focused, or should the outlets create a sheet of air rather than more of a pipe? I hope that others' feedback will help to even further improve the performance of it.
