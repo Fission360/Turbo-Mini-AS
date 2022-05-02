@@ -1,4 +1,4 @@
-# Note: while the fan shroud itself can be used on any V0.1 with the stock x-carriage, the fan mounting system used in this mod is intended for use with a hinged tophat.
+# Note: while the fan shroud itself can be fitted onto any printer with the V0.1 x-carriage, the fan mount used in this mod is intended for use with a hinged tophat.
 I decided that having the 7040 blower fan mounted to the tophat was the best option for a couple reasons. This prevented any electronics from needing to be moved and also didn't require you to cut any new panels (in an attempt to make this mod as accessible as possible). But this also means you can't fully remove the tophat, since it will stay connected due to the fans wires. Adding a hinged tophat made this problem trivial. If you do not plan on adding a hinged tophat, then you will need to create your own mounting solution. That being said, I would highly recommend the tophat made by MSiemons: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MSiemons/TophatHingeV0.1
 
 # Print Settings
