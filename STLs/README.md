@@ -7,4 +7,4 @@ All of these parts will print comfortably within your V0.1's build volume. ABS/A
 Go ahead and use your normal Voron recommended settings for Turbo_Mini_AS.stl, but for everything else, I would change the inner and outer perimeters to 0.6mm
 
 # Changelog
-**5/6/22: New design is 1mm taller so that the outlet sits lower underneath the heatblock. The outlets now point towards the nozzle at an angle, rather than being exactly opposite to each other (similar to the Stealthburner), in hopes of improving the cooling efficiency.**
+**5/6/22:** New design is 1mm taller so that the outlet sits lower underneath the heatblock. The outlets now point towards the nozzle at an angle, rather than being exactly opposite to each other (similar to the Stealthburner), in hopes of improving the cooling efficiency.
