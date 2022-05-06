@@ -1,4 +1,4 @@
-# Turbo-Mini-AS (Beta v1.0.0)
+# Turbo-Mini-AS (Beta)
 ![IMG_4189](https://user-images.githubusercontent.com/93737816/165895620-29b7efa9-3de0-40d0-9382-efdba18dc3aa.JPG)
 
 I love my V0.1 very much. But with my current setup, the stock part cooling became the limiting factor in my quest for high-speed quality, and was preventing me from printing other plastics like PLA/PETG a little faster. This project was originally inspired by Vez3D and his cooling setup, and my design was built off of KurioHonoo's wonderful Mini AfterSherpa (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/README.md).
