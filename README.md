@@ -21,6 +21,6 @@ Currently only Dragon/Dragonfly and Revo Voron hotends are supported I don't hav
 I've been the only one to test my design so far. I think it's performing pretty well, but definitely not as well as I want it to. I'm calling it a beta because I want to get more testing on it first, so stay tuned for revisions!
 
 # Can I get the CAD?
-Until I get more hours on my own shroud, and see how others are feeling about it, I have decided that I will not be releasing the CAD publicly just yet. A little annoying, I know, but I'm taking notes from the Stealthburner development and I still think this is best until more testing is implemented. But rest assured, I will be releasing f3d/step files for the design eventually, when I feel at least satisfied with the performance.
+Until I get more hours on my own shroud, I have decided that I will not be releasing the CAD publicly just yet. A little annoying, I know, but I'm changing the design enough to where it'd be annoying to update this repo after every new CAD revsion. But rest assured, I will be releasing f3d/step files for the design eventually, when I feel at least satisfied with the performance and *mostly* done with testing.
 
 If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
