@@ -38,6 +38,8 @@ Here it is fully wired up; the dupont connector goes to GPIO26, the 2-pin JST go
 
 ![IMG_4201](https://user-images.githubusercontent.com/93737816/166125167-22911d3c-5f96-422b-882c-b67940304e25.JPG)
 
+While this solution works reliably, we're only able to controll up to about 66% of the blower's available power. This is because the fan's power from 0-100% is controlled by a voltage from 0-5V, while the Pi or MCU's control pin can only output 0-3.3V
+I am looking into solutions so that unnecessary amount of cooling at 100% can be utilized, but for now, this is the best solution I've been able to find
 
 # Config/Klipper
 I'm following Vez3D's example by controlling my printer via a pin on the Pi, so we need to set up the Pi as a second MCU for klipper to recognize the pin. (https://www.klipper3d.org/RPi_microcontroller.html). 
