@@ -17,6 +17,9 @@ Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mi
  
 Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
-I've been the only one to test my design so far. I think it's performing pretty well, but I definitely feel there's room for improvement. I want to get more testing on my own rig, but be on the watch for newly updated files! 
+# Can I get the CAD?
+Until I get more hours on my own shroud, I have decided that I will not be releasing the CAD publicly just yet. It's annoying, I know, but I'm changing the design daily, and I don't have time in my schedule to update this repo after every new CAD revsion. If you want the current CAD, please feel free to reach out to me about it. But rest assured, I will be posting f3d/step files here eventually, but that will be when I feel satisfied with the performance and am *mostly* done with testing.
+
+Because at the end of the day, I've been the only one to test my design so far. I think it's performing pretty well, but I definitely feel there's room for improvement. I want to get more testing on my own rig, but be on the watch for newly updated files! 
 
 If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
