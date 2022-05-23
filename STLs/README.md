@@ -7,4 +7,4 @@ All of these parts will print comfortably within your V0.1's build volume. ABS/A
 Go ahead and use your normal Voron recommended settings for Turbo_Mini_AS.stl, but for everything else, I would change the inner and outer perimeters to 0.6mm
 
 # STL Changelog
-5/12/22: updated shrouds with better optimized duct paths and outlet direction, general aesthetic tune-ups
+5/12/22: Updated the shroud with better duct paths and newer outlet direction, as well as adding general aesthetic tune-ups. It also uses less plastic than the previous version, helping remove some of the weight
