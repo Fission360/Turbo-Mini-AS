@@ -18,7 +18,7 @@ The V0.1 is known to have a part-cooling bottleneck as parts are printed faster,
 # What hotends/extruders does this support?
 Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl). I haven't tested that setup myself, so I can't guarantee that everything will fit as well as with the Sherpa Mini. 
  
-Currently only Dragon/Dragonfly and Revo Voron hotends are supported I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
+Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Why is it a Beta?
 I've been the only one to test my design so far. I think it's performing pretty well, but definitely not as well as I want it to. I'm calling it a beta because I want to get more testing on it first, so stay tuned for revisions!
