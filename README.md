@@ -1,4 +1,4 @@
-# Turbo-Mini-AS (Beta)
+# Turbo-Mini-AS
 ![IMG_4189](https://user-images.githubusercontent.com/93737816/165895620-29b7efa9-3de0-40d0-9382-efdba18dc3aa.JPG)
 
 I love my V0.1 very much. But with my current setup, the stock part cooling became the limiting factor in my quest for high-speed quality. This project was originally inspired by Vez3D and his cooling setup, and my design was built off of KurioHonoo's wonderful Mini AfterSherpa (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/README.md).
@@ -18,9 +18,6 @@ Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mi
 Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Why is it a Beta?
-I've been the only one to test my design so far. I think it's performing pretty well, but definitely not as well as I want it to. I'm calling it a beta because I want to get more testing on it first. But be on the watch for newly updated files! 
-
-# Can I get the CAD?
-Until I get more hours on my own shroud, I have decided that I will not be releasing the CAD publicly just yet. A little annoying, I know, but I'm changing the design enough to where it'd be tedious to update this repo after every new CAD revsion. But rest assured, I will be releasing f3d/step files for the design eventually, when I feel at least satisfied with the performance and *mostly* done with testing.
+I've been the only one to test my design so far. I think it's performing pretty well, but I definitely feel there's room for improvement. I want to get more testing on my own rig, but be on the watch for newly updated files! 
 
 If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
