@@ -17,7 +17,6 @@ Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mi
  
 Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
-# Why is it a Beta?
 I've been the only one to test my design so far. I think it's performing pretty well, but I definitely feel there's room for improvement. I want to get more testing on my own rig, but be on the watch for newly updated files! 
 
 If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
