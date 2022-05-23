@@ -10,7 +10,10 @@ If you're reading this, you are likely also be dissatisfied with the V0.1's part
 The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. This a mod that hopes to improve your V0.1's part cooling performance, without compromising on the compact nature of the printer.
 
 # Why would I want this over the stock fans?
- The 7040 brushelss blower fan provides a good amount of airflow to cool down parts, and is actually quieter than the stock 3010 blowers when ouputting the same volume of air.
+ The 7040 brushelss blower fan provides a good amount of airflow to cool down parts, and is actually quieter than the stock 3010 blowers when ouputting the same volume of air. Also, it's really helpful for printing PLA; below is a 3DBenchy bow printed in PLA at 200mm/s @ 15k accel, devoid of any warping
+![IMG_4240 2](https://user-images.githubusercontent.com/93737816/169748025-c47499bc-3820-4f24-b5d0-60aa91e87936.JPG)
+
+
 
 # What hotends/extruders does this support?
 Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl). I haven't tested that setup myself, so I can't guarantee that everything will fit as well as with the Sherpa Mini. 
