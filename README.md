@@ -7,7 +7,7 @@ If you're reading this, you are likely also be dissatisfied with the V0.1's part
 
 
 # What is this thing?
-The V0.1 is known to have a part-cooling bottleneck as parts are printed faster, and it's not as simple as replacing the 3010 blower fans with 4010 ones. Ironically, the printer is too compact. This a mod that hopes to improve your V0.1's part cooling performance, without compromising on the compact nature of the printer.
+The V0.1 is known to have a part-cooling bottleneck as parts are printed faster. This a mod that hopes to vastly improve your V0.1's part cooling performance, without compromising on the compact nature of the printer.
 
 # Why would I want this over the stock fans?
  The 7040 brushelss blower fan provides a good amount of airflow to cool down parts, and is actually quieter than the stock 3010 blowers when ouputting the same volume of air. Also, for cooling-needy plastics like PLA and even PETG, the fan opens the door for higher printing speeds using these plastics.
