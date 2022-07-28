@@ -18,6 +18,6 @@ Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mi
 Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
 # Can I get the CAD?
-I only have the STEP posted; I will not be posting the Fusion 360 file publicly simply because the timeline is attrocious. If you want the F3D file, let me know. 
+I only have the STEP posted; I will not be posting the Fusion 360 file publicly simply because the timeline is attrocious. If you want the F3D file, let me know.
 
 If you have any other questions, I'm @where'sthelambSAUCE in the Voron discord server.
