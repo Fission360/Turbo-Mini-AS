@@ -14,7 +14,7 @@ The V0.1 is known to have a part-cooling bottleneck as parts are printed faster.
  The 7040 brushelss blower fan provides a good amount of airflow to cool down parts, and is actually quieter than the stock 3010 blowers when ouputting the same volume of air. Also, for cooling-needy plastics like PLA and even PETG, the fan opens the door for higher printing speeds using these plastics.
 
 # What hotends/extruders does this support?
-Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl). I haven't tested that setup myself, so I can't guarantee that everything will fit as well as with the Sherpa Mini. 
+Since this was based off the Mini AfterSherpa, this was built with the Sherpa Mini in mind. While the mounting is compatible with the Sailfin and Sharkfin, the duct may not be. There is a taller tube adapter for the Sherpa Micro if that's what you want, but you'll also need KurioHonoo's Sherpa Micro Adapter (https://github.com/KurioHonoo/Mini-AfterSherpa/blob/main/STL/Mini_AfterSherpa/MiniAS_Sherpa_Micro_Adapter.stl). I haven't tested that setup myself, so I can't guarantee that everything will fit as well as with the Sherpa Mini. 
  
 Currently only Dragon/Dragonfly and Revo Voron hotends are supported. I don't have any plans to do an Orbiter V1.5/V2 version, and my design is extremely hard to modify to work with the Revo Micro.
 
